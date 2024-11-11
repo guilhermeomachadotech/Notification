@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f8857cff-63e1-4094-ac4f-f6ac5b32eb83"
+      }
+    },
+    "owner": "gui_machado_2688"
   }
 }
